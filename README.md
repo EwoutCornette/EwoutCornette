@@ -1,22 +1,16 @@
 ## Portfolio of Ewout Cornette 
 
 
-💡 Passionate about **embedded systems, firmware development, and automated testing frameworks**.  
-🔹 Experienced with **C, C++, Python, RTOS, and Linux**.  
-🔹 Building robust **Flask-based testing frameworks** and embedded drivers.  
+ 
 
----
 
-## 🛠 Featured Projects  
 
-🔹 **[Testing Framework](https://github.com/yourusername/testing-framework)**  
+## Featured Projects  
+
+🔹 **[Testing Framework]**  
 A modular Flask-based framework for automating PCB tests, integrating **PostgreSQL, report generation, and error handling**.  
 
-🔹 **[TBS2000 Oscilloscope Driver](https://github.com/yourusername/tbs2000-driver)**  
-Python driver for the **Tektronix TBS2000** using `pymeasure`, supporting **automated measurements**.  
 
-🔹 **[Embedded UDP Communication for pyVISA](https://github.com/yourusername/udp-pyvisa)**  
-Extended **pyVISA** instrument class to support **UDP-based communication** for lab equipment.  
 
 ---
 
@@ -33,4 +27,4 @@ Extended **pyVISA** instrument class to support **UDP-based communication** for 
 ## 📫 Connect With Me  
 
 🔗 **[GitHub](https://github.com/ewoutcornette)**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/ewoutcornette/)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/ewout-cornette-ba8992200/)**  
