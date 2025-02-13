@@ -1,16 +1,23 @@
 ## Portfolio of Ewout Cornette 
 
 
- 
+## Sofware Projects  
 
-
-
-## Featured Projects  
-
-🔹 **[Testing Framework]**  
+**[Testing Framework]**  
 A modular Flask-based framework for automating PCB tests, integrating **PostgreSQL, report generation, and error handling**.  
 
+ **Power Test for 6kW Amplifier**  
+- Automated control of **power instruments** and **cooling system data collection**.  
+- Synchronized **18 MLX90640 thermal cameras** for detailed heat distribution analysis.  
 
+**Test Setup for STM32F407IGTx**  
+- Implemented a **TCP server on STM32** for communication with a **Python GUI client**.  
+- Developed **functional tests** for **I2C and SPI components**.  
+- Used **FreeRTOS** to handle **parallel internal tests** and TCP communication.  
+
+**Test Setup for RF Measurement Board**  
+- Developed **C drivers** for **AD7689, SSD1306, MCP2317, and IS62_65WVS2**.  
+- Integrated drivers into **C++ test software** for a fully automated test system. 
 
 ---
 
@@ -20,7 +27,7 @@ A modular Flask-based framework for automating PCB tests, integrating **PostgreS
 🛠 **Embedded:** STM32 | ESP32 | FreeRTOS | Linux Kernel Modules  
 📡 **Testing Frameworks:** Flask | SQLAlchemy | Pytest  
 🔗 **Protocols:** UART | SPI | I2C | TCP/IP | UDP  
-📊 **Database & Tools:** PostgreSQL | Git | Docker | Nginx  
+📊 **Database & Tools:** PostgreSQL | Git | Docker   
 
 ---
 
