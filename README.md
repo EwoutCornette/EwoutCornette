@@ -3,7 +3,7 @@
 
 ## Sofware Projects  
 
-**Testing Framewor]**  
+**Testing Framewor**  
 A modular Flask-based framework for automating PCB functional tests, integrating PostgreSQL for data management, and using Pytest for automated testing.
 
 - Implemented Ethernet communication for interacting with test equipment.
@@ -11,6 +11,7 @@ A modular Flask-based framework for automating PCB functional tests, integrating
 - Migrated the database from SQLite to PostgreSQL for improved scalability.
 - Applied design patterns (Factory, Singleton) for modularity, reusability, and extensibility.
 - Used Flask Blueprints for a layered architecture, organizing the application into clear components.
+- Set up Git structure, issue tracking, and CI/CD pipelines with Jenkins for automated builds and deployment.
 - Started unit testing code with unittest and Pytest, with room for further improvement in coverage.
 
  **Power Test for 6kW Amplifier**  
@@ -41,16 +42,21 @@ Developed a test board for processor connectors with SPI to Ethernet communicati
 - Implemented voltage measurement for accurate monitoring.
 - Created a web interface for I/O expanders to manage connections to specific connectors using I2C.
 
+**VHDL: Microcontroller Design with MicroBlaze**
+Created a MicroBlaze microcontroller in Xilinx Vivado for embedded applications. Implemented  fault detection and correction algorithms, such as Hamming Code and Reed-Solomon on memory to test and validate memory integrity and fault tolerance.
 
-## ⚡ Skills & Technologies  
 
-💻 **Programming:** C | C++ | Python | Bash  
-🛠 **Embedded:** STM32 | ESP32 | FreeRTOS | Linux Kernel Modules  
+## Skills & Technologies  
+
+💻 **Programming:** C | C++ | Python | C#   
+🛠 **Embedded:** STM32 | ESP32 | FreeRTOS 
 📡 **Testing Frameworks:** Flask | SQLAlchemy | Pytest  
 🔗 **Protocols:** UART | SPI | I2C | TCP/IP | UDP  
 📊 **Database & Tools:** PostgreSQL | Git | Docker   
+🔧 **Hardware Design:** Altium | KiCad | Transmission Lines | PCB Layout 
+💡 **VHDL:** MicroBlaze Design | Fault Detection & Correction Algorithms (Hamming Code, Reed-Solomon)
+🛠 **Design Patterns:** Factory | Singleton | Builder | ...
 
----
 
 ## 📫 Connect With Me  
 
