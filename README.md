@@ -39,7 +39,7 @@ Developed a test board for processor connectors with SPI to Ethernet communicati
 - Used impedance-matched lines for reliable signal transmission.
 - Configured power setup and safety protocols for stable operation.
 - Implemented voltage measurement for accurate monitoring.
-- Created a web interface for I/O expanders to manage connections to specific connectors.
+- Created a web interface for I/O expanders to manage connections to specific connectors using I2C.
 
 
 ## ⚡ Skills & Technologies  
