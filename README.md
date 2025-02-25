@@ -34,10 +34,10 @@ Created a fully automated test setup for Power Splitter and DSD 32, essential pa
 Developed a near-field test setup for antenna evaluation.
 Designed and implemented a vertical golf pattern test for radar antenna analysis.
 
-- RF & Antenna Measurement Techniques
-- Automated Test Development
-- RF Hardware & System Integration
-- Data Processing & Analysis
+- RF & Antenna Measurement Techniques (VNA, Spectrum Analyzers, ...) 
+- Automated Test Development 
+- RF Hardware & System Integration (shielding, impedance matching, ...) 
+- Data Processing & Analysis (Python and Excel)
 
 
 ## Hardware Projects  
