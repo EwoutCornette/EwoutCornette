@@ -1,17 +1,17 @@
 ## Portfolio of Ewout Cornette 
 
 
-## Sofware Projects  
+## Software Projects  
 
-**Testing Framewor**  
-A modular Flask-based framework for automating PCB functional tests, integrating PostgreSQL for data management, and using Pytest for automated testing.
+**Testing Framework**  
+A Flask-based framework for automating PCB functional tests, integrating PostgreSQL for data management, and using Pytest for automated testing.
 
 - Implemented Ethernet communication for interacting with test equipment.
 - Created templates for equipment devices to streamline configuration and test the equiment.
 - Migrated the database from SQLite to PostgreSQL for improved scalability.
-- Applied design patterns (Factory, Singleton) for modularity, reusability, and extensibility.
+- Applied design patterns for modularity, reusability, and extensibility.
 - Used Flask Blueprints for a layered architecture, organizing the application into clear components.
-- Set up Git structure, issue tracking, and CI/CD pipelines with Jenkins for automated builds and deployment.
+- Started Git structure, issue tracking, and CI/CD pipelines with Jenkins for automated builds and deployment.
 - Started unit testing code with unittest and Pytest, with room for further improvement in coverage.
 
  **Power Test for 6kW Amplifier**  
@@ -26,6 +26,12 @@ A modular Flask-based framework for automating PCB functional tests, integrating
 **Test Setup for RF Measurement Board**  
 - Developed **C drivers** for **AD7689, SSD1306, MCP2317, and IS62_65WVS2**.  
 - Integrated drivers into **C++ test software** for a fully automated test system. 
+
+**Antenna Radar Setups**
+-Created a fully automated test setup for Power Splitter and DSD 32, essential parts of a radar antenna, using the testing framework.
+--test
+-Developed a near-field test setup for antenna evaluation.
+-Designed and implemented a vertical golf pattern test for radar antenna analysis.
 
 
 ## Hardware Projects  
