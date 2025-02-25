@@ -61,7 +61,7 @@ Created a MicroBlaze microcontroller in Xilinx Vivado for embedded applications.
 ## Skills & Technologies  
 
 💻 **Programming:** C | C++ | Python | C#  
-🛠 **Embedded:** STM32 | ESP32 | FreeRTOS 
+🛠 **Embedded:** STM32 | ESP32 | FreeRTOS  
 📡 **Testing Frameworks:** Flask | SQLAlchemy | Pytest    
 🔗 **Protocols:** UART | SPI | I2C | TCP/IP | UDP    
 📊 **Database & Tools:** PostgreSQL | Git | Docker     
