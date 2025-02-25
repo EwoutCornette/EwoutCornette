@@ -62,12 +62,12 @@ Created a MicroBlaze microcontroller in Xilinx Vivado for embedded applications.
 
 💻 **Programming:** C | C++ | Python | C#  
 🛠 **Embedded:** STM32 | ESP32 | FreeRTOS 
-📡 **Testing Frameworks:** Flask | SQLAlchemy | Pytest  
-🔗 **Protocols:** UART | SPI | I2C | TCP/IP | UDP  
-📊 **Database & Tools:** PostgreSQL | Git | Docker   
-🔧 **Hardware Design:** Altium | KiCad | Transmission Lines | PCB Layout 
-💡 **VHDL:** MicroBlaze Design | Fault Detection & Correction Algorithms (Hamming Code, Reed-Solomon)
-🛠 **Design Patterns:** Factory | Singleton | Builder | ...
+📡 **Testing Frameworks:** Flask | SQLAlchemy | Pytest    
+🔗 **Protocols:** UART | SPI | I2C | TCP/IP | UDP    
+📊 **Database & Tools:** PostgreSQL | Git | Docker     
+🔧 **Hardware Design:** Altium | KiCad | Transmission Lines | PCB Layout   
+💡 **VHDL:** MicroBlaze Design | Fault Detection & Correction Algorithms (Hamming Code, Reed-Solomon)    
+🛠 **Design Patterns:** Factory | Singleton | Builder | ...   
 
 
 ## 📫 Connect With Me  
